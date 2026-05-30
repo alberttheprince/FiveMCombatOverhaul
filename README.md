@@ -18,7 +18,7 @@ Preview Video Here: https://www.youtube.com/watch?v=Ffe9VGMGhOE
 # Known issues:
 - Animations are only replaced in third person. We have provided a small client script to prevent players from switching to first-person
 - Does not have advanced homing and other related info as the single player version does, as these files are not exposed by CFX/FiveM at the moment
-
+- Replaces the standard slap animation with a closed fist hit, making slap emotes seem more aggressive
 
 # Credits:
 

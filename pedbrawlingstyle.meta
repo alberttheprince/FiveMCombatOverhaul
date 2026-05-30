@@ -1,0 +1,585 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CBrawlingStyleManager>
+  <aBrawlingData>
+    <Item>
+      <Name>BS_MICHAEL</Name>
+      <TargetRadius value="2.500000" />
+      <KeepMovingWhilePathingDistance value="4.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="3000" />
+      <MeleeMovementMBR value="2.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="2000" />
+      <AttackFrequencyBestFighterMinInMs value="100" />
+      <AttackFrequencyBestFighterMaxInMs value="1500" />
+      <AttackRangeMax value="3.000000" />
+      <AttackProbabilityToComboMin value="1.600000" />
+      <AttackProbabilityToComboMax value="2.850000" />
+      <ProbabilityToBeDazedMin value="0.300000" />
+      <ProbabilityToBeDazedMax value="0.100000" />
+      <BlockProbabilityMin value="0.450000" />
+      <BlockProbabilityMax value="1.350000" />
+      <CounterProbabilityMin value="0.550000" />
+      <CounterProbabilityMax value="1.350000" />
+      <TauntFrequencyMinInMs value="3000" />
+      <TauntFrequencyMaxInMs value="5000" />
+      <TauntProbability value="0.900000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.600000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_TREVOR</Name>
+      <TargetRadius value="2.500000" />
+      <KeepMovingWhilePathingDistance value="4.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="3000" />
+      <MeleeMovementMBR value="2.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="2000" />
+      <AttackFrequencyBestFighterMinInMs value="100" />
+      <AttackFrequencyBestFighterMaxInMs value="1500" />
+      <AttackRangeMax value="3.000000" />
+      <AttackProbabilityToComboMin value="1.600000" />
+      <AttackProbabilityToComboMax value="2.850000" />
+      <ProbabilityToBeDazedMin value="0.300000" />
+      <ProbabilityToBeDazedMax value="0.100000" />
+      <BlockProbabilityMin value="0.450000" />
+      <BlockProbabilityMax value="1.350000" />
+      <CounterProbabilityMin value="0.550000" />
+      <CounterProbabilityMax value="1.350000" />
+      <TauntFrequencyMinInMs value="3000" />
+      <TauntFrequencyMaxInMs value="5000" />
+      <TauntProbability value="0.900000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.600000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_FRANKLIN</Name>
+      <TargetRadius value="2.500000" />
+      <KeepMovingWhilePathingDistance value="4.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="3000" />
+      <MeleeMovementMBR value="2.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="2000" />
+      <AttackFrequencyBestFighterMinInMs value="100" />
+      <AttackFrequencyBestFighterMaxInMs value="1500" />
+      <AttackRangeMax value="3.000000" />
+      <AttackProbabilityToComboMin value="1.600000" />
+      <AttackProbabilityToComboMax value="2.850000" />
+      <ProbabilityToBeDazedMin value="0.300000" />
+      <ProbabilityToBeDazedMax value="0.100000" />
+      <BlockProbabilityMin value="0.450000" />
+      <BlockProbabilityMax value="1.350000" />
+      <CounterProbabilityMin value="0.550000" />
+      <CounterProbabilityMax value="1.350000" />
+      <TauntFrequencyMinInMs value="3000" />
+      <TauntFrequencyMaxInMs value="5000" />
+      <TauntProbability value="0.900000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.600000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_AI</Name>
+      <TargetRadius value="2.500000" />
+      <KeepMovingWhilePathingDistance value="4.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="3000" />
+      <MeleeMovementMBR value="2.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="2000" />
+      <AttackFrequencyBestFighterMinInMs value="100" />
+      <AttackFrequencyBestFighterMaxInMs value="1500" />
+      <AttackRangeMax value="3.000000" />
+      <AttackProbabilityToComboMin value="1.600000" />
+      <AttackProbabilityToComboMax value="2.850000" />
+      <ProbabilityToBeDazedMin value="0.300000" />
+      <ProbabilityToBeDazedMax value="0.100000" />
+      <BlockProbabilityMin value="0.450000" />
+      <BlockProbabilityMax value="1.350000" />
+      <CounterProbabilityMin value="0.550000" />
+      <CounterProbabilityMax value="1.350000" />
+      <TauntFrequencyMinInMs value="3000" />
+      <TauntFrequencyMaxInMs value="5000" />
+      <TauntProbability value="0.900000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.600000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_ANIMAL</Name>
+      <TargetRadius value="1.500000" />
+      <KeepMovingWhilePathingDistance value="12.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="3000" />
+      <SeekModeScanTimeMax value="6000" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_CAT</Name>
+      <TargetRadius value="1.500000" />
+      <KeepMovingWhilePathingDistance value="12.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="3000" />
+      <SeekModeScanTimeMax value="6000" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_DOG</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="true" />
+    </Item>
+    <Item>
+      <Name>BS_COUGAR</Name>
+      <TargetRadius value="1.500000" />
+      <KeepMovingWhilePathingDistance value="4.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="2.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="true" />
+    </Item>
+    <Item>
+      <Name>BS_DOG_RETRIEVER</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_DOG_SMALL</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_TIGER_SHARK</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_HAMMERHEAD_SHARK</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_KILLER_WHALE</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_BOAR</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_PIG</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_COYOTE</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_DEER</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_HEN</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_RABBIT</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+    <Item>
+      <Name>BS_COW</Name>
+      <TargetRadius value="1.000000" />
+      <KeepMovingWhilePathingDistance value="6.000000" />
+      <MaxDistanceMayAdjustPathEndPosition value="1.500000" />
+      <SeekModeScanTimeMin value="500" />
+      <SeekModeScanTimeMax value="1500" />
+      <MeleeMovementMBR value="3.000000" />
+      <AttackFrequencyWorstFighterMinInMs value="500" />
+      <AttackFrequencyWorstFighterMaxInMs value="3000" />
+      <AttackFrequencyBestFighterMinInMs value="250" />
+      <AttackFrequencyBestFighterMaxInMs value="2500" />
+      <AttackRangeMax value="2.500000" />
+      <AttackProbabilityToComboMin value="0.000000" />
+      <AttackProbabilityToComboMax value="0.000000" />
+      <ProbabilityToBeDazedMin value="0.000000" />
+      <ProbabilityToBeDazedMax value="0.000000" />
+      <BlockProbabilityMin value="0.000000" />
+      <BlockProbabilityMax value="0.000000" />
+      <CounterProbabilityMin value="0.000000" />
+      <CounterProbabilityMax value="0.000000" />
+      <TauntFrequencyMinInMs value="5000" />
+      <TauntFrequencyMaxInMs value="7500" />
+      <TauntProbability value="0.750000" />
+      <TauntFrequencyQueuedMinInMs value="1000" />
+      <TauntFrequencyQueuedMaxInMs value="2500" />
+      <TauntProbabilityQueued value="0.900000" />
+      <PlayTauntBeforeAttacking value="false" />
+    </Item>
+  </aBrawlingData>
+</CBrawlingStyleManager>

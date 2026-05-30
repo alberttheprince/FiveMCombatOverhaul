@@ -12,7 +12,7 @@ Preview Video Here: https://www.youtube.com/watch?v=Ffe9VGMGhOE
 - Script for limiting combat to third person only
 - Reworked ped taunts and combat moves
 - Drag and drop, standalone resource
-- No wonky scripted animations - this is a direct replacement of base game animations with real
+- No wonky scripted animations - this is a direct replacement of base game animations with realism in mind
 - Replaced "broken" or spammable attacks with new, useful square-up animations
 
 # Known issues:

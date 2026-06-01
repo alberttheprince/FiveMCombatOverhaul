@@ -6,6 +6,8 @@ We definitely suggest you watch the preview video!
 
 Preview Video Here: https://www.youtube.com/watch?v=Ffe9VGMGhOE
 
+Here's a SP trailer by Wolf Fire Modz: https://www.youtube.com/watch?v=n-OcqlAFFto
+
 # Features:
 - Rework of all fighting animations in a more realistic style
 - Aggressive carjacking animation
